@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Daniel (xorn714)
+# 👋 ¡Hola! Soy Daniel
 
 ### Estudiante de Informática | Desarrollador Frontend | Explorando el Backend
 
