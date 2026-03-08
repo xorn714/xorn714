@@ -39,21 +39,12 @@ Actualmente, estoy en constante aprendizaje, buscando nuevos desafíos que me pe
 ### 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de xorn714](https://github-readme-stats.vercel.app/api?username=xorn714&show_icons=true&theme=radical&locale=es)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=xorn714&layout=compact&theme=radical&locale=es)
-
----
 
 ## 📫 Conéctate conmigo
 
 - **LinkedIn:** [https://www.linkedin.com/in/daniel-hern%C3%A1ndez-maurera-b87ab7351/]
 - **Correo:** [xorn714dev@gmail.com]
-- **Portafolio:** [https://portfolio-opn9szbgb-daniels-projects-ecfd20e8.vercel.app/]
+- **Portafolio:** https://portfolio-opn9szbgb-daniels-projects-ecfd20e8.vercel.app/
 
 ---
 
