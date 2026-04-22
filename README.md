@@ -44,7 +44,7 @@ Actualmente, estoy en constante aprendizaje, buscando nuevos desafíos que me pe
 
 - **LinkedIn:** https://www.linkedin.com/in/daniel-hern%C3%A1ndez-maurera-b87ab7351/
 - **Correo:** xorn714dev@gmail.com
-- **Portafolio:** https://portfolio-eight-fawn-84.vercel.app/
+- **Portafolio:** https://xorndev.vercel.app/
 
 ---
 
